@@ -50,5 +50,10 @@ public class HomeController {
         return "/index";
     }
 
+    @RequestMapping("/error1")
+    public String getErrorPage(){
+        return "/error/500";
+    }
+
 
 }
