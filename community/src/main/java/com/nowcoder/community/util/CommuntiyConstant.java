@@ -34,4 +34,7 @@ public interface CommuntiyConstant {
     // 评论
     int ENTITY_TYPE_COMMENT = 2;
 
+    // 用户
+    int ENTITY_TYPE_USER = 3;
+
 }
