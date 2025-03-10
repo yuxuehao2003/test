@@ -43,4 +43,7 @@ public interface CommuntiyConstant {
     String TOPIC_FOLLOW = "follow";
 
     int SYSTEM_USER_ID = 1;
+
+    // 发帖
+    String TOPIC_PUBLISH = "publish";
 }
